@@ -37,6 +37,13 @@ Deep Dive into Real My SQL 8.0(2)
     - 민우: [INSERT](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week_03/11.5%20-%20INSERT.md)
     - 현재: [GROUP BY가 포함된 JOIN UPDATE](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/4%EC%A3%BC%EC%B0%A8.%20GROUP%20BY%EA%B0%80%20%ED%8F%AC%ED%95%A8%EB%90%9C%20JOIN%20UPDATE.md)
 
+#### 5주차(2025.12.19 ~ 2025.12.22)
+- **범위** 166p ~ 261p (확장 검색)
+- **세미나**
+    - 장우: [Sysbench를 활용한 쿼리성능테스트](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/choijangwoo/week_5/Sysbench%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%BF%BC%EB%A6%AC%EC%84%B1%EB%8A%A5%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
+    - 민우: [공간 검색](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week_04/12.2%20%EA%B3%B5%EA%B0%84%20%EA%B2%80%EC%83%89.md)
+    - 현재: [공간 DB](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/5%EC%A3%BC%EC%B0%A8.%20%EA%B3%B5%EA%B0%84%20DB.md)
+
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
