@@ -44,6 +44,12 @@ Deep Dive into Real My SQL 8.0(2)
     - 민우: [공간 검색](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week_04/12.2%20%EA%B3%B5%EA%B0%84%20%EA%B2%80%EC%83%89.md)
     - 현재: [공간 DB](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/5%EC%A3%BC%EC%B0%A8.%20%EA%B3%B5%EA%B0%84%20DB.md)
 
+#### 6주차(2025.12.23 ~ 2025.12.26)
+- **범위** 262p ~ 292p (파티셔닝)
+- **세미나**
+    - 장우: [어떤 파티셔닝을 선택해야할까](https://github.com/BackEndDeepDive/RealMySQL8.0_2/tree/main/choijangwoo/week_6)
+    - 민우: [파티션 - MySQL 파티션의 종류](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week_06/13.3%20%ED%8C%8C%ED%8B%B0%EC%85%98%20-%20MySQL%20%ED%8C%8C%ED%8B%B0%EC%85%98%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
+    - 현재: [파티셔닝이란](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/6%EC%A3%BC%EC%B0%A8.%20%ED%8C%8C%ED%8B%B0%EC%85%98.md)
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
